@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pro Hunter Binoculars 10x42",
+      "price": 3239.00,
+      "description": "High-performance waterproof binoculars with crystal-clear optics and superior light transmission. Perfect for early morning or late evening hunts.",
+      "image": "images/g91040816-F.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Precision Range Finder",
+      "price": 1467.99,
+      "description": "Laser rangefinder accurate up to 1000 yards with angle compensation. Compact design fits easily in your pocket for quick access in the field.",
+      "image": "images/SGSOK8K701_1_HR.jpg"
+    },
+    {
+      "id": 3,
+      "name": "All-Weather Hunting Jacket",
+      "price": 125.99,
+      "description": "Waterproof and breathable jacket with silent fabric technology. Features multiple pockets and adjustable hood for maximum comfort in any weather.",
+      "image": "images/9443-TRN-20250806-Front-Angle-Hood-Up__58624.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Field Dressing Knife Set",
+      "price": 38.93,
+      "description": "Professional-grade stainless steel knife set with gut hook, caping blade, and bone saw. Includes durable carrying case for safe transport.",
+      "image": "images/61ggv07gnxL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tactical Hunting Backpack",
+      "price": 561.00,
+      "description": "50L capacity backpack with hydration bladder compatibility and MOLLE webbing. Ergonomic design distributes weight evenly for all-day comfort.",
+      "image": "images/alpha-2025.jpg.webp"
+    },
+    {
+      "id": 6,
+      "name": "Insulated Hunting Boots",
+      "price": 205.00,
+      "description": "1200g insulation keeps feet warm in extreme cold. Waterproof construction and aggressive tread pattern provide excellent traction on any terrain.",
+      "image": "images/2000332825_370_P1.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Trail Camera Pro",
+      "price": 195.99,
+      "description": "20MP camera with night vision and motion detection. Long battery life and weatherproof housing for reliable game monitoring year-round.",
+      "image": "images/gmstcfxwtx2pk_1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Camouflage Cap Collection",
+      "price": 6.95,
+      "description": "Breathable mesh-backed cap in various camo patterns. Adjustable fit and moisture-wicking sweatband keeps you cool and comfortable all day.",
+      "image": "images/350_mossyoakcountrydna_02_1024x.webp"
+    },
+    {
+      "id": 9,
+      "name": "Thermal Hunting Gloves",
+      "price": 49.99,
+      "description": "Insulated gloves with touchscreen-compatible fingertips and grip-enhanced palms. Convertible mittens provide extra warmth when needed.",
+      "image": "images/gloves.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Portable Hunting Seat",
+      "price": 79.99,
+      "description": "Lightweight folding seat with 360-degree swivel and quiet operation. Adjustable height and padded seat for extended comfort during long hunts.",
+      "image": "images/hunting-seat.jpg"
+    },
+    {
+      "id": 11,
+      "name": "LED Headlamp Rechargeable",
+      "price": 39.99,
+      "description": "1000-lumen headlamp with red/green light modes for night vision preservation. USB rechargeable with 20-hour runtime on low setting.",
+      "image": "images/headlamp.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Game Cooler 65-Quart",
+      "price": 219.99,
+      "description": "Heavy-duty cooler keeps game fresh for up to 7 days. Bear-resistant latches and non-slip feet make it perfect for any hunting expedition.",
+      "image": "images/cooler.jpg"
+    }
+  ]
+}
