@@ -61,28 +61,28 @@
       "name": "Thermal Hunting Gloves",
       "price": 49.99,
       "description": "Insulated gloves with touchscreen-compatible fingertips and grip-enhanced palms. Convertible mittens provide extra warmth when needed.",
-      "image": "images/gloves.jpg"
+      "image": "images/thermal-gloves.webp"
     },
     {
       "id": 10,
       "name": "Portable Hunting Seat",
       "price": 79.99,
       "description": "Lightweight folding seat with 360-degree swivel and quiet operation. Adjustable height and padded seat for extended comfort during long hunts.",
-      "image": "images/hunting-seat.jpg"
+      "image": "images/hunting-seat.webp"
     },
     {
       "id": 11,
       "name": "LED Headlamp Rechargeable",
       "price": 39.99,
       "description": "1000-lumen headlamp with red/green light modes for night vision preservation. USB rechargeable with 20-hour runtime on low setting.",
-      "image": "images/headlamp.jpg"
+      "image": "images/LED-rechargeable-light.webp"
     },
     {
       "id": 12,
       "name": "Game Cooler 65-Quart",
-      "price": 219.99,
+      "price": 179.99,
       "description": "Heavy-duty cooler keeps game fresh for up to 7 days. Bear-resistant latches and non-slip feet make it perfect for any hunting expedition.",
-      "image": "images/cooler.jpg"
+      "image": "images/hunting-cooler-65qt.jpg"
     }
   ]
 }
